@@ -16,7 +16,7 @@ def notify(fee):
         timeout=20,
     )
 
-target_fee = 45
+target_fee = 20
 print("Script started. Monitoring Bitcoin fees...")
 
 while True:
