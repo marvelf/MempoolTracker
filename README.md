@@ -1,5 +1,5 @@
 # MempoolTracker
-A little project that sends a push notification to user on desktop when Bitcoin fees are under 20sat/vb.<br><br>
+A little project that sends a push notification on users desktop when Bitcoin fees are under 20sat/vb.<br><br>
 
 As of now, I've only been able to get this to work when running manually and only then will a notification appear if the fees at that moment are below the set amount. <br><br>
 
